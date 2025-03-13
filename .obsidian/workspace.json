@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "14462edc05f01943",
+        "id": "ddbe7708c562095e",
         "type": "tabs",
         "children": [
           {
-            "id": "07989ddb887d4e4d",
+            "id": "f83e99345c3d5977",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
+              "title": "新标签页"
             }
           }
         ]
@@ -79,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +83,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "index 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -109,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 237.5
   },
   "right": {
     "id": "85c594c4de743e1c",
@@ -193,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5
+    "width": 421.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,7 +198,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "07989ddb887d4e4d",
+  "active": "f83e99345c3d5977",
   "lastOpenFiles": [
     "index.md",
     "linux/command/df.md",
