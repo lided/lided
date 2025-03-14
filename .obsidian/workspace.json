@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ddbe7708c562095e",
+        "id": "3b2c06ef49676334",
         "type": "tabs",
         "children": [
           {
-            "id": "f83e99345c3d5977",
+            "id": "04ec0e4fb10a3092",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -103,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 255.5
   },
   "right": {
     "id": "85c594c4de743e1c",
@@ -120,13 +120,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -134,11 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "index.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "index的笔记属性"
+              "title": "笔记属性"
             }
           },
           {
@@ -156,7 +153,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "bc7f949f07b2d768",
@@ -198,10 +195,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f83e99345c3d5977",
+  "active": "04ec0e4fb10a3092",
   "lastOpenFiles": [
-    "index.md",
-    "linux/command/df.md",
+    "vue3/plugin.md",
+    "vue3/dev-proxy.md",
+    "vue3/axios.md",
+    "vue3/组件传值.md",
+    "linux/防火墙.md",
+    "linux/命令分隔符.md",
+    "linux/git.md",
+    "linux/start.md",
+    "linux/systemctl.md",
+    "linux/regular.md",
+    "java/String-Builder-Buffer.md",
+    "java/Thread Pool.md",
+    "java/index.md",
+    "java/utils/chaimMap.md",
+    "java/springcloud/分布式事务.md",
+    "java/springcloud/服务注册发现.md",
+    "java/springcloud/链路追踪.md",
+    "java/springcloud/熔断器.md",
+    "java/springcloud/网关.md",
+    "java/springboot/mybatis.md",
+    "java/springboot/global-exception-handler.md",
+    "java/springboot/data-format.md",
+    "java/springboot/aop.md",
+    "java/spring/流程.md",
+    "java/spring/事务.md",
+    "java/maven/pom.md",
+    "java/design-mode/创建型模式/images/Pasted image 20240316210442.png",
+    "database/mysql/images/Pasted image 20240224150709.png",
+    "database/mysql/images/Pasted image 20240224151215.png",
+    "database/mysql/images/Pasted image 20240224161541.png",
+    "database/mysql/images/Pasted image 20240224163936.png",
+    "database/mysql/images/Pasted image 20240224171031.png",
+    "database/mysql/images/Pasted image 20240312190927.png",
+    "database/mysql/images/Pasted image 20240224150642.png",
+    "database/mysql/images/Pasted image 20240224150508.png",
+    "database/mysql/images/Pasted image 20240224150441.png",
     "node_modules/@vue/compiler-ssr/dist/compiler-ssr.d.ts",
     "node_modules/@vue/compiler-ssr/dist/compiler-ssr.cjs.js",
     "node_modules/@vue/compiler-ssr/dist",
@@ -209,43 +240,9 @@
     "node_modules/@vue/compiler-sfc/dist/compiler-sfc.esm-browser.js",
     "node_modules/@vue/compiler-sfc/dist/compiler-sfc.cjs.js",
     "node_modules/@vue/compiler-sfc/dist",
-    "node_modules/balanced-match/README.md",
-    "node_modules/balanced-match/LICENSE.md",
     "node_modules/balanced-match/package.json",
     "node_modules/balanced-match/index.js",
     "node_modules/balanced-match",
-    "node_modules/brace-expansion/README.md",
-    "node_modules/@rollup/rollup-win32-x64-msvc/README.md",
-    "node_modules/character-entities-html4/readme.md",
-    "node_modules/character-entities-legacy/readme.md",
-    "node_modules/comma-separated-tokens/readme.md",
-    "node_modules/ccount/readme.md",
-    "node_modules/emoji-regex-xs/README.md",
-    "node_modules/@shikijs/engine-oniguruma/README.md",
-    "node_modules/@shikijs/transformers/README.md",
-    "node_modules/lru-cache/README.md",
-    "node_modules/@algolia/recommend/README.md",
-    "node_modules/@vue/runtime-core/README.md",
-    "node_modules/@pkgjs/parseargs/README.md",
-    "node_modules/@pkgjs/parseargs/CHANGELOG.md",
-    "node_modules/hast-util-to-html/readme.md",
-    "node_modules/qsu/README.md",
-    "node_modules/mark.js/README.md",
-    "node_modules/mark.js/ISSUE_TEMPLATE.md",
-    "node_modules/mark.js/CONTRIBUTING.md",
-    "node_modules/postcss/README.md",
-    "node_modules/@algolia/monitoring/README.md",
-    "node_modules/@algolia/client-query-suggestions/README.md",
-    "linux/command/images/Pasted image 20250312210449.png",
-    "linux/command/images/Pasted image 20250312203046.png",
-    "linux/command/images/Pasted image 20250312201056.png",
-    "linux/command/images/Pasted image 20250312200823.png",
-    "database/mysql/images/Pasted image 20240220215951.png",
-    "database/mysql/images/Pasted image 20240220215215.png",
-    "database/mysql/images/Pasted image 20240220215144.png",
-    "database/mysql/images/Pasted image 20240220215046.png",
-    "database/mysql/images/Pasted image 20240220214102.png",
-    "database/mysql/images/Pasted image 20240220211338.png",
     "todo.canvas",
     "erp.canvas",
     "未命名 1.canvas",
