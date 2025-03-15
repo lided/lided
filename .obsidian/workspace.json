@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a7b502721caa64f6",
+        "id": "73417343fdd67543",
         "type": "tabs",
         "children": [
           {
-            "id": "77ef4288e16bf322",
+            "id": "fcf2239c418ca017",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "database/redis/bitmap.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "bitmap"
             }
           }
         ]
@@ -79,8 +79,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
-                "collapseAll": false,
+                "file": "database/redis/bitmap.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -89,7 +89,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "readme 的反向链接列表"
+              "title": "bitmap 的反向链接列表"
             }
           },
           {
@@ -98,12 +98,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "database/redis/bitmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "readme 的出链列表"
+              "title": "bitmap 的出链列表"
             }
           },
           {
@@ -112,14 +112,13 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "readme.md"
+                "file": "database/redis/bitmap.md"
               },
               "icon": "lucide-info",
-              "title": "readme的笔记属性"
+              "title": "bitmap的笔记属性"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -140,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md",
+                "file": "database/redis/bitmap.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "readme 的大纲"
+              "title": "bitmap 的大纲"
             }
           }
         ]
@@ -180,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,8 +190,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77ef4288e16bf322",
+  "active": "fcf2239c418ca017",
   "lastOpenFiles": [
+    "database/redis/cluster.md",
+    "database/redis/10大数据类型.md",
+    "database/redis/bitmap.md",
+    "database/redis/主从复制和哨兵.md",
+    "database/redis/持久化.md",
+    "database/redis/index.md",
+    "database/redis/redis事务.md",
     "readme.md",
     "index.md",
     "java/index.md",
@@ -203,14 +209,8 @@
     "docker/docker私有库.md",
     "docker/compose.md",
     "database/index.md",
-    "database/redis/10大数据类型.md",
-    "database/redis/持久化.md",
     "database/redis/命令.md",
-    "database/redis/主从复制和哨兵.md",
-    "database/redis/cluster.md",
     "database/redis/docker-redis.md",
-    "database/redis/index.md",
-    "database/redis/redis事务.md",
     "database/redis/start.md",
     "database/mysql/user and authority.md",
     "database/mysql/SQL.md",
@@ -218,7 +218,6 @@
     "database/mysql/quick.md",
     "database/mysql/install.md",
     "database/mysql/cluster.md",
-    "database/mysql/index.md",
     "linux/command/images/Pasted image 20250312210449.png",
     "linux/command/images/Pasted image 20250312200823.png",
     "linux/command/images/Pasted image 20250312203046.png",
