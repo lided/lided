@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3b2c06ef49676334",
+        "id": "a7b502721caa64f6",
         "type": "tabs",
         "children": [
           {
-            "id": "04ec0e4fb10a3092",
+            "id": "77ef4288e16bf322",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -38,7 +38,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -74,6 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,7 +84,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "readme 的反向链接列表"
             }
           },
           {
@@ -98,12 +99,23 @@
               "icon": "links-going-out",
               "title": "出链"
             }
+          },
+          {
+            "id": "c7648161ee763abf",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "笔记属性"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 200
   },
   "right": {
     "id": "85c594c4de743e1c",
@@ -127,33 +139,8 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
-          },
-          {
-            "id": "c7648161ee763abf",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {},
-              "icon": "lucide-info",
-              "title": "笔记属性"
-            }
-          },
-          {
-            "id": "a26f10fe9abf522e",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "bc7f949f07b2d768",
@@ -184,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 283.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,54 +182,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04ec0e4fb10a3092",
+  "active": "77ef4288e16bf322",
   "lastOpenFiles": [
-    "vue3/plugin.md",
-    "vue3/dev-proxy.md",
-    "vue3/axios.md",
-    "vue3/组件传值.md",
-    "linux/防火墙.md",
-    "linux/命令分隔符.md",
-    "linux/git.md",
-    "linux/start.md",
-    "linux/systemctl.md",
-    "linux/regular.md",
-    "java/String-Builder-Buffer.md",
-    "java/Thread Pool.md",
+    "readme.md",
+    "index.md",
     "java/index.md",
-    "java/utils/chaimMap.md",
-    "java/springcloud/分布式事务.md",
-    "java/springcloud/服务注册发现.md",
-    "java/springcloud/链路追踪.md",
-    "java/springcloud/熔断器.md",
-    "java/springcloud/网关.md",
-    "java/springboot/mybatis.md",
-    "java/springboot/global-exception-handler.md",
-    "java/springboot/data-format.md",
-    "java/springboot/aop.md",
-    "java/spring/流程.md",
-    "java/spring/事务.md",
-    "java/maven/pom.md",
+    "docker/install.md",
+    "docker/services.md",
+    "docker/index.md",
+    "docker/Dockerfile.md",
+    "docker/docker私有库.md",
+    "docker/compose.md",
+    "database/index.md",
+    "database/redis/10大数据类型.md",
+    "database/redis/持久化.md",
+    "database/redis/命令.md",
+    "database/redis/主从复制和哨兵.md",
+    "database/redis/cluster.md",
+    "database/redis/docker-redis.md",
+    "database/redis/index.md",
+    "database/redis/redis事务.md",
+    "database/redis/start.md",
+    "database/mysql/user and authority.md",
+    "database/mysql/SQL.md",
+    "database/mysql/mysql管理.md",
+    "database/mysql/quick.md",
+    "database/mysql/install.md",
+    "database/mysql/cluster.md",
+    "database/mysql/index.md",
+    "linux/command/images/Pasted image 20250312210449.png",
+    "linux/command/images/Pasted image 20250312200823.png",
+    "linux/command/images/Pasted image 20250312203046.png",
+    "linux/command/images/Pasted image 20250312201056.png",
+    "linux/command/images",
+    "linux/command",
+    "linux",
+    "docker/docker-compose-example.yml",
+    "linux/images/Pasted image 20250312203046.png",
+    "linux/images/Pasted image 20250312210449.png",
+    "linux/images/Pasted image 20250312200823.png",
+    "linux/images/Pasted image 20250312201056.png",
+    "public/logo2.jpg",
+    "未命名",
     "java/design-mode/创建型模式/images/Pasted image 20240316210442.png",
-    "database/mysql/images/Pasted image 20240224150709.png",
-    "database/mysql/images/Pasted image 20240224151215.png",
-    "database/mysql/images/Pasted image 20240224161541.png",
-    "database/mysql/images/Pasted image 20240224163936.png",
-    "database/mysql/images/Pasted image 20240224171031.png",
-    "database/mysql/images/Pasted image 20240312190927.png",
-    "database/mysql/images/Pasted image 20240224150642.png",
-    "database/mysql/images/Pasted image 20240224150508.png",
-    "database/mysql/images/Pasted image 20240224150441.png",
     "node_modules/@vue/compiler-ssr/dist/compiler-ssr.d.ts",
     "node_modules/@vue/compiler-ssr/dist/compiler-ssr.cjs.js",
     "node_modules/@vue/compiler-ssr/dist",
     "node_modules/@vue/compiler-sfc/dist/compiler-sfc.d.ts",
     "node_modules/@vue/compiler-sfc/dist/compiler-sfc.esm-browser.js",
-    "node_modules/@vue/compiler-sfc/dist/compiler-sfc.cjs.js",
-    "node_modules/@vue/compiler-sfc/dist",
-    "node_modules/balanced-match/package.json",
-    "node_modules/balanced-match/index.js",
-    "node_modules/balanced-match",
     "todo.canvas",
     "erp.canvas",
     "未命名 1.canvas",
