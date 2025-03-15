@@ -11,10 +11,15 @@
             "id": "0000307904085496",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "linux/raid.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "raid"
             }
           }
         ]
@@ -74,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "linux/raid.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,7 +89,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "raid 的反向链接列表"
             }
           },
           {
@@ -92,11 +98,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "linux/raid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "raid 的出链列表"
             }
           },
           {
@@ -104,9 +111,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "linux/raid.md"
+              },
               "icon": "lucide-info",
-              "title": "笔记属性"
+              "title": "raid的笔记属性"
             }
           }
         ],
@@ -114,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "85c594c4de743e1c",
@@ -131,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "linux/raid.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "raid 的大纲"
             }
           }
         ]
@@ -170,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 247.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,8 +192,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0000307904085496",
+  "active": "68a080a4c4db6224",
   "lastOpenFiles": [
+    "linux/raid.md",
     "database/redis/start.md",
     "database/redis/redis事务.md",
     "database/redis/index.md",
@@ -208,7 +220,6 @@
     "database/mysql/mysql管理.md",
     "database/mysql/quick.md",
     "database/mysql/install.md",
-    "database/mysql/cluster.md",
     "linux/command/images/Pasted image 20250312210449.png",
     "linux/command/images/Pasted image 20250312200823.png",
     "linux/command/images/Pasted image 20250312203046.png",
