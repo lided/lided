@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "73417343fdd67543",
+        "id": "07cdb55d3a1cc461",
         "type": "tabs",
         "children": [
           {
-            "id": "fcf2239c418ca017",
+            "id": "0000307904085496",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "database/redis/bitmap.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "bitmap"
+              "title": "新标签页"
             }
           }
         ]
@@ -79,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "database/redis/bitmap.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +83,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "bitmap 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -98,12 +92,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "database/redis/bitmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "bitmap 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -111,14 +104,13 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "database/redis/bitmap.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "bitmap的笔记属性"
+              "title": "笔记属性"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -139,13 +131,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "database/redis/bitmap.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "bitmap 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -190,17 +181,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fcf2239c418ca017",
+  "active": "0000307904085496",
   "lastOpenFiles": [
+    "database/redis/start.md",
+    "database/redis/redis事务.md",
+    "database/redis/index.md",
+    "database/redis/docker-redis.md",
+    "index.md",
+    "database/redis/bitmap.md",
     "database/redis/cluster.md",
     "database/redis/10大数据类型.md",
-    "database/redis/bitmap.md",
     "database/redis/主从复制和哨兵.md",
     "database/redis/持久化.md",
-    "database/redis/index.md",
-    "database/redis/redis事务.md",
     "readme.md",
-    "index.md",
     "java/index.md",
     "docker/install.md",
     "docker/services.md",
@@ -210,8 +203,6 @@
     "docker/compose.md",
     "database/index.md",
     "database/redis/命令.md",
-    "database/redis/docker-redis.md",
-    "database/redis/start.md",
     "database/mysql/user and authority.md",
     "database/mysql/SQL.md",
     "database/mysql/mysql管理.md",
