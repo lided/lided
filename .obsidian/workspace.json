@@ -11,10 +11,15 @@
             "id": "77ef4288e16bf322",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "readme"
             }
           }
         ]
@@ -93,11 +98,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "readme 的出链列表"
             }
           },
           {
@@ -105,9 +111,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "readme.md"
+              },
               "icon": "lucide-info",
-              "title": "笔记属性"
+              "title": "readme的笔记属性"
             }
           }
         ],
@@ -132,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "readme.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "readme 的大纲"
             }
           }
         ]
@@ -171,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
